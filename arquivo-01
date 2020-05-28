@@ -1,4 +1,4 @@
 
 escreve_nome() {
-  echo "Ola, Alejandro"
+  echo "Ola, Ghidorsi"
 }
